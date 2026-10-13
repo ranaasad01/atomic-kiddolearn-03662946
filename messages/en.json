@@ -1,0 +1,1214 @@
+{
+  "nav": {
+    "home": "Home",
+    "alphabet": "Alphabet",
+    "numbers": "Numbers",
+    "animals": "Animals",
+    "quizzes": "Quizzes"
+  },
+  "hero": {
+    "heading": "Let's Learn & Play! 🎉",
+    "body": "Hi there, superstar! 👋 Welcome to KiddoLearn — the most fun place to learn your ABCs, numbers, and meet amazing animals! Are you ready? Let's go! 🚀",
+    "cta": "Start Learning!"
+  },
+  "category-cards": [
+    {
+      "emoji": "🔤",
+      "title": "Alphabet",
+      "desc": "Learn all 26 letters! Hear how they sound and play letter games. A, B, C… let's go!",
+      "href": "/alphabet"
+    },
+    {
+      "emoji": "🔢",
+      "title": "Numbers",
+      "desc": "Count from 1 to 20! Tap the numbers, count the stars, and have a blast!",
+      "href": "/numbers"
+    },
+    {
+      "emoji": "🐘",
+      "title": "Animals",
+      "desc": "Meet lions, penguins, frogs, and more! Learn their names and hear the sounds they make!",
+      "href": "/animals"
+    },
+    {
+      "emoji": "🧠",
+      "title": "Quizzes",
+      "desc": "Test what you know! Answer questions and win awesome badges! Can you get a perfect score?",
+      "href": "/quizzes"
+    }
+  ],
+  "category-cards-heading": "What do you want to learn today? 🌈",
+  "category-cards-body": "Pick a card and start your adventure! Every time you finish, you get a shiny star! ⭐",
+  "progress-tracker": [
+    {
+      "emoji": "🔤",
+      "label": "Alphabet",
+      "desc": "Collect up to 26 stars, one for each letter you learn!",
+      "max": 26
+    },
+    {
+      "emoji": "🔢",
+      "label": "Numbers",
+      "desc": "Collect up to 20 stars by counting your way to the top!",
+      "max": 20
+    },
+    {
+      "emoji": "🐘",
+      "label": "Animals",
+      "desc": "Collect up to 12 stars by meeting all your animal friends!",
+      "max": 12
+    },
+    {
+      "emoji": "🧠",
+      "label": "Quizzes",
+      "desc": "Collect up to 10 stars by acing every quiz!",
+      "max": 10
+    }
+  ],
+  "progress-tracker-heading": "Look how much you've learned! ⭐",
+  "progress-tracker-body": "Every time you finish an activity, your star bar fills up! Keep going — you're doing amazing! 🌟",
+  "mascot-intro": {
+    "heading": "Meet Kiko! 🐨",
+    "body": "Hi! I'm Kiko the koala, and I'm your learning buddy! 🐨💛 I'll cheer for you, give you hints, and do a happy dance every time you get an answer right. Let's learn together — it's going to be SO much fun!",
+    "cta": "Say hi to Kiko!"
+  },
+  "alphabet-header": {
+    "heading": "Let's Learn the ABC! 🎉",
+    "body": "Every letter is an adventure! Pick a letter below, listen to its sound, and play a fun game. You can do it! ⭐",
+    "cta": "Start with A!"
+  },
+  "letter-selector": [
+    {
+      "letter": "A",
+      "word": "Apple",
+      "emoji": "🍎"
+    },
+    {
+      "letter": "B",
+      "word": "Butterfly",
+      "emoji": "🦋"
+    },
+    {
+      "letter": "C",
+      "word": "Cat",
+      "emoji": "🐱"
+    },
+    {
+      "letter": "D",
+      "word": "Dog",
+      "emoji": "🐶"
+    },
+    {
+      "letter": "E",
+      "word": "Elephant",
+      "emoji": "🐘"
+    },
+    {
+      "letter": "F",
+      "word": "Fish",
+      "emoji": "🐟"
+    },
+    {
+      "letter": "G",
+      "word": "Giraffe",
+      "emoji": "🦒"
+    },
+    {
+      "letter": "H",
+      "word": "Hat",
+      "emoji": "🎩"
+    },
+    {
+      "letter": "I",
+      "word": "Ice cream",
+      "emoji": "🍦"
+    },
+    {
+      "letter": "J",
+      "word": "Jellyfish",
+      "emoji": "🪼"
+    },
+    {
+      "letter": "K",
+      "word": "Kite",
+      "emoji": "🪁"
+    },
+    {
+      "letter": "L",
+      "word": "Lion",
+      "emoji": "🦁"
+    },
+    {
+      "letter": "M",
+      "word": "Moon",
+      "emoji": "🌙"
+    },
+    {
+      "letter": "N",
+      "word": "Nest",
+      "emoji": "🪺"
+    },
+    {
+      "letter": "O",
+      "word": "Octopus",
+      "emoji": "🐙"
+    },
+    {
+      "letter": "P",
+      "word": "Penguin",
+      "emoji": "🐧"
+    },
+    {
+      "letter": "Q",
+      "word": "Queen",
+      "emoji": "👑"
+    },
+    {
+      "letter": "R",
+      "word": "Rainbow",
+      "emoji": "🌈"
+    },
+    {
+      "letter": "S",
+      "word": "Star",
+      "emoji": "⭐"
+    },
+    {
+      "letter": "T",
+      "word": "Tiger",
+      "emoji": "🐯"
+    },
+    {
+      "letter": "U",
+      "word": "Umbrella",
+      "emoji": "☂️"
+    },
+    {
+      "letter": "V",
+      "word": "Volcano",
+      "emoji": "🌋"
+    },
+    {
+      "letter": "W",
+      "word": "Whale",
+      "emoji": "🐋"
+    },
+    {
+      "letter": "X",
+      "word": "Xylophone",
+      "emoji": "🎵"
+    },
+    {
+      "letter": "Y",
+      "word": "Yak",
+      "emoji": "🐃"
+    },
+    {
+      "letter": "Z",
+      "word": "Zebra",
+      "emoji": "🦓"
+    }
+  ],
+  "letter-selector-heading": "Pick Your Letter! 🔤",
+  "letter-selector-body": "Tap any letter to start learning it. Collect a star ⭐ for every letter you finish!",
+  "letter-game": [
+    {
+      "step": "See the letter",
+      "desc": "A big, bouncy letter pops up on your screen!"
+    },
+    {
+      "step": "Find the picture",
+      "desc": "Three pictures appear. Which one starts with that letter?"
+    },
+    {
+      "step": "Tap your answer",
+      "desc": "Tap the picture you think is right!"
+    },
+    {
+      "step": "Win a star ⭐",
+      "desc": "Get it right and watch the confetti fly! 🎊"
+    },
+    {
+      "step": "Try again 💛",
+      "desc": "Wrong answer? No worries! Kiko the mascot gives you a hint!"
+    },
+    {
+      "step": "Finish all 26 letters",
+      "desc": "Collect all your stars and become an Alphabet Champion! 🏆"
+    }
+  ],
+  "letter-game-heading": "Play the Letter Game! 🎮",
+  "letter-game-body": "Look at the big letter. Then find the matching picture! Tap the right one and win a star. You've got this! 💪",
+  "letter-game-cta": "Play Now!",
+  "audio-pronunciation": [
+    {
+      "tip": "Tap 🔊 to hear the letter name — like 'Ay' for A!"
+    },
+    {
+      "tip": "Tap 🔊 again to hear the letter sound — like 'Ah' for A!"
+    },
+    {
+      "tip": "Tap 🔊 to hear the example word — like 'Apple' for A!"
+    },
+    {
+      "tip": "Say it yourself — repeat after Kiko the mascot and practise!"
+    },
+    {
+      "tip": "Every letter has its own special sound — listen and learn them all!"
+    }
+  ],
+  "audio-pronunciation-heading": "Hear Every Letter! 🔊",
+  "audio-pronunciation-body": "Tap the speaker button to hear how the letter sounds. Then say it out loud — you are a great reader! 📣",
+  "reward-animation": [
+    {
+      "range": "1–5 letters done",
+      "stars": "⭐",
+      "msg": "Great start, little learner!"
+    },
+    {
+      "range": "6–10 letters done",
+      "stars": "⭐⭐",
+      "msg": "You are on a roll! Amazing!"
+    },
+    {
+      "range": "11–15 letters done",
+      "stars": "⭐⭐⭐",
+      "msg": "Halfway there, superstar!"
+    },
+    {
+      "range": "16–20 letters done",
+      "stars": "⭐⭐⭐⭐",
+      "msg": "Wow, you are incredible!"
+    },
+    {
+      "range": "21–25 letters done",
+      "stars": "⭐⭐⭐⭐⭐",
+      "msg": "Almost an Alphabet Champion!"
+    },
+    {
+      "range": "All 26 letters done",
+      "stars": "🏆",
+      "msg": "YOU ARE AN ALPHABET CHAMPION! 🎉🎊🌈"
+    }
+  ],
+  "reward-animation-heading": "You Did It! 🏆🎊",
+  "reward-animation-body": "Woohoo! You finished a letter! Kiko is SO proud of you! Keep going and collect all 26 stars to become an Alphabet Superstar! 🌟",
+  "reward-animation-cta": "Keep Learning!",
+  "numbers-header": {
+    "heading": "Let's Count! 🔢",
+    "body": "Numbers are so much fun! Pick a number, count along, and play games. You can do it — let's go! 🌟",
+    "cta": "Start Counting!"
+  },
+  "number-selector": [
+    {
+      "num": 1,
+      "word": "One",
+      "emoji": "🍎",
+      "desc": "Tap to count one shiny apple!"
+    },
+    {
+      "num": 2,
+      "word": "Two",
+      "emoji": "🐢",
+      "desc": "Tap to count two slow turtles!"
+    },
+    {
+      "num": 3,
+      "word": "Three",
+      "emoji": "🌟",
+      "desc": "Tap to count three bright stars!"
+    },
+    {
+      "num": 4,
+      "word": "Four",
+      "emoji": "🐸",
+      "desc": "Tap to count four jumping frogs!"
+    },
+    {
+      "num": 5,
+      "word": "Five",
+      "emoji": "🍓",
+      "desc": "Tap to count five yummy strawberries!"
+    },
+    {
+      "num": 6,
+      "word": "Six",
+      "emoji": "🦋",
+      "desc": "Tap to count six pretty butterflies!"
+    },
+    {
+      "num": 7,
+      "word": "Seven",
+      "emoji": "🌈",
+      "desc": "Tap to count seven rainbow colours!"
+    },
+    {
+      "num": 8,
+      "word": "Eight",
+      "emoji": "🐙",
+      "desc": "Tap to count eight wiggly octopus arms!"
+    },
+    {
+      "num": 9,
+      "word": "Nine",
+      "emoji": "🌸",
+      "desc": "Tap to count nine pink flowers!"
+    },
+    {
+      "num": 10,
+      "word": "Ten",
+      "emoji": "🎈",
+      "desc": "Tap to count ten bouncy balloons!"
+    },
+    {
+      "num": 11,
+      "word": "Eleven",
+      "emoji": "🐝",
+      "desc": "Tap to count eleven buzzy bees!"
+    },
+    {
+      "num": 12,
+      "word": "Twelve",
+      "emoji": "🍪",
+      "desc": "Tap to count twelve yummy cookies!"
+    },
+    {
+      "num": 13,
+      "word": "Thirteen",
+      "emoji": "🐠",
+      "desc": "Tap to count thirteen colourful fish!"
+    },
+    {
+      "num": 14,
+      "word": "Fourteen",
+      "emoji": "🌻",
+      "desc": "Tap to count fourteen sunny sunflowers!"
+    },
+    {
+      "num": 15,
+      "word": "Fifteen",
+      "emoji": "🐣",
+      "desc": "Tap to count fifteen fluffy chicks!"
+    },
+    {
+      "num": 16,
+      "word": "Sixteen",
+      "emoji": "🍉",
+      "desc": "Tap to count sixteen watermelon slices!"
+    },
+    {
+      "num": 17,
+      "word": "Seventeen",
+      "emoji": "🦄",
+      "desc": "Tap to count seventeen magical unicorns!"
+    },
+    {
+      "num": 18,
+      "word": "Eighteen",
+      "emoji": "🚂",
+      "desc": "Tap to count eighteen little trains!"
+    },
+    {
+      "num": 19,
+      "word": "Nineteen",
+      "emoji": "🐧",
+      "desc": "Tap to count nineteen waddling penguins!"
+    },
+    {
+      "num": 20,
+      "word": "Twenty",
+      "emoji": "🎉",
+      "desc": "Tap to count twenty party hats — hooray!"
+    }
+  ],
+  "number-selector-heading": "Pick a Number to Learn! 👇",
+  "number-selector-body": "Tap any number to start learning it. Each one has a fun counting game just for you!",
+  "counting-game": [
+    {
+      "tip": "Tap the apples — how many can you count? 🍎"
+    },
+    {
+      "tip": "Touch each balloon as you count out loud! 🎈"
+    },
+    {
+      "tip": "Count the stars one by one — don't miss any! ⭐"
+    },
+    {
+      "tip": "Tap every frog to count them all! 🐸"
+    },
+    {
+      "tip": "Count the cookies — then eat them in your imagination! 🍪"
+    },
+    {
+      "tip": "Get it right and a big confetti shower falls down! 🎊"
+    }
+  ],
+  "counting-game-heading": "Counting Game! 🎮",
+  "counting-game-body": "Tap each thing on the screen to count it! When you reach the right number, you win a star! ⭐ Ready? Tap, tap, tap!",
+  "counting-game-cta": "Play Now!",
+  "number-quiz": [
+    {
+      "level": "Easy Quiz",
+      "desc": "Match the number to the picture (1–5) 🌟"
+    },
+    {
+      "level": "Medium Quiz",
+      "desc": "Count the objects and pick the right number (1–10) 🔢"
+    },
+    {
+      "level": "Hard Quiz",
+      "desc": "Which number comes next? (1–20) 🚀"
+    },
+    {
+      "level": "Super Mix",
+      "desc": "Letters, numbers, and animals all together! 🎉"
+    },
+    {
+      "level": "Hot Streak",
+      "desc": "Get 3 in a row right and win a shiny gold star! ⭐"
+    },
+    {
+      "level": "Surprise Badge",
+      "desc": "Finish the whole quiz and unlock a special surprise badge! 🏅"
+    }
+  ],
+  "number-quiz-heading": "Number Quiz Time! 🧠",
+  "number-quiz-body": "How well do you know your numbers? Pick the right answer and earn a badge! Don't worry — you can try again as many times as you like! 😊",
+  "number-quiz-cta": "Start the Quiz!",
+  "progress-badges": [
+    {
+      "badge": "⭐ Counting Starter",
+      "desc": "Learned numbers 1 to 5!"
+    },
+    {
+      "badge": "⭐⭐ Number Explorer",
+      "desc": "Learned numbers 1 to 10!"
+    },
+    {
+      "badge": "⭐⭐⭐ Counting Champ",
+      "desc": "Learned numbers 1 to 15!"
+    },
+    {
+      "badge": "🏅 Number Master",
+      "desc": "Learned all 20 numbers — WOW!"
+    },
+    {
+      "badge": "🎊 Quiz Hero",
+      "desc": "Finished a number quiz without any mistakes!"
+    },
+    {
+      "badge": "🔢 Super Counter",
+      "desc": "Played the counting game 5 times — amazing!"
+    }
+  ],
+  "progress-badges-heading": "Your Number Stars! 🌟",
+  "progress-badges-body": "Every number you learn gives you a star! Collect them all and become a Number Champion! 🏆",
+  "progress-badges-cta": "See All My Badges!",
+  "animals-header": {
+    "heading": "Meet the Animals! 🐾",
+    "body": "Wow, so many amazing animals to discover! Pick your favourite and learn cool things about it. You can even hear what it sounds like! 🎉",
+    "cta": "Start Exploring!"
+  },
+  "animal-grid": [
+    {
+      "emoji": "🦁",
+      "name": "Lion",
+      "desc": "the brave king of the jungle!"
+    },
+    {
+      "emoji": "🐘",
+      "name": "Elephant",
+      "desc": "the biggest animal on land!"
+    },
+    {
+      "emoji": "🐬",
+      "name": "Dolphin",
+      "desc": "a super smart ocean friend!"
+    },
+    {
+      "emoji": "🦒",
+      "name": "Giraffe",
+      "desc": "the tallest animal in the world!"
+    },
+    {
+      "emoji": "🐧",
+      "name": "Penguin",
+      "desc": "a funny bird that loves the cold!"
+    },
+    {
+      "emoji": "🐼",
+      "name": "Panda",
+      "desc": "a fluffy black-and-white bear!"
+    },
+    {
+      "emoji": "🦊",
+      "name": "Fox",
+      "desc": "a clever and speedy little animal!"
+    },
+    {
+      "emoji": "🐢",
+      "name": "Turtle",
+      "desc": "a slow and steady shell-wearing pal!"
+    },
+    {
+      "emoji": "🦋",
+      "name": "Butterfly",
+      "desc": "a beautiful bug with colourful wings!"
+    },
+    {
+      "emoji": "🐸",
+      "name": "Frog",
+      "desc": "a jumpy green friend who loves puddles!"
+    },
+    {
+      "emoji": "🦓",
+      "name": "Zebra",
+      "desc": "a horse with cool black-and-white stripes!"
+    },
+    {
+      "emoji": "🦜",
+      "name": "Parrot",
+      "desc": "a colourful bird that can copy your words!"
+    }
+  ],
+  "animal-grid-heading": "Choose an Animal! 🌟",
+  "animal-grid-body": "Tap on any animal to learn all about it. There are so many cute ones to meet!",
+  "animal-detail": [
+    {
+      "icon": "🌍",
+      "label": "Where it lives",
+      "value": "Grassy plains in Africa"
+    },
+    {
+      "icon": "🍖",
+      "label": "What it eats",
+      "value": "Meat — it is a carnivore!"
+    },
+    {
+      "icon": "📏",
+      "label": "How big",
+      "value": "Up to 2 metres long — that is really big!"
+    },
+    {
+      "icon": "👶",
+      "label": "Baby name",
+      "value": "Cub"
+    },
+    {
+      "icon": "🎨",
+      "label": "Cool fact",
+      "value": "Only male lions have a fluffy mane!"
+    },
+    {
+      "icon": "😴",
+      "label": "Fun fact",
+      "value": "Lions sleep up to 20 hours every day!"
+    }
+  ],
+  "animal-detail-heading": "All About the Lion! 🦁",
+  "animal-detail-body": "The lion is a big, strong cat that lives in Africa. Lions have a fluffy mane around their face. They love to nap in the sun — up to 20 hours a day! Baby lions are called cubs. 🐾",
+  "animal-detail-cta": "Hear the Lion Roar! 🔊",
+  "fun-facts": [
+    {
+      "emoji": "🦒",
+      "fact": "Giraffes have super long tongues — about 45 cm! They use them to grab leaves from tall trees."
+    },
+    {
+      "emoji": "🐘",
+      "fact": "Elephants can remember their friends for many, many years. They never forget!"
+    },
+    {
+      "emoji": "🐬",
+      "fact": "Dolphins talk to each other using clicks and whistles. They are really chatty!"
+    },
+    {
+      "emoji": "🦋",
+      "fact": "A butterfly tastes food with its feet! It has tiny taste sensors on its legs."
+    },
+    {
+      "emoji": "🐧",
+      "fact": "Penguins give pebbles to the ones they love. It is like a penguin gift!"
+    },
+    {
+      "emoji": "🐸",
+      "fact": "Frogs drink water through their skin — they do not need to sip it!"
+    },
+    {
+      "emoji": "🦜",
+      "fact": "Parrots can learn hundreds of words and even sing songs!"
+    },
+    {
+      "emoji": "🐢",
+      "fact": "Some turtles can live for over 100 years — they are older than your great-grandparents!"
+    }
+  ],
+  "fun-facts-heading": "Super Fun Facts! 🤩",
+  "fun-facts-body": "Did you know these amazing things? Animals are SO cool! Tap a fact to see a fun picture! 🌈",
+  "animal-sounds": [
+    {
+      "emoji": "🦁",
+      "name": "Lion",
+      "sound": "ROAAAAR!"
+    },
+    {
+      "emoji": "🐘",
+      "name": "Elephant",
+      "sound": "TRUMPET!"
+    },
+    {
+      "emoji": "🐬",
+      "name": "Dolphin",
+      "sound": "CLICK-CLICK-WHISTLE!"
+    },
+    {
+      "emoji": "🐸",
+      "name": "Frog",
+      "sound": "RIBBIT RIBBIT!"
+    },
+    {
+      "emoji": "🐄",
+      "name": "Cow",
+      "sound": "MOOOOO!"
+    },
+    {
+      "emoji": "🦜",
+      "name": "Parrot",
+      "sound": "SQUAWK!"
+    },
+    {
+      "emoji": "🐺",
+      "name": "Wolf",
+      "sound": "AWOOOO!"
+    },
+    {
+      "emoji": "🐝",
+      "name": "Bee",
+      "sound": "BZZZZZ!"
+    }
+  ],
+  "animal-sounds-heading": "What Does It Say? 🔊",
+  "animal-sounds-body": "Press the big button to hear the animal's sound and its name! Can you make the sound too? 😄",
+  "animal-sounds-cta": "Try the Animal Quiz! 🎯",
+  "quizzes-header": {
+    "heading": "Quiz Time! 🎉",
+    "body": "Can you answer all the questions? Pick a quiz and let's find out how much you know! You might even win a star! ⭐",
+    "cta": "Let's Play!"
+  },
+  "quiz-selector": [
+    {
+      "emoji": "🔤",
+      "title": "ABC Quiz",
+      "desc": "Can you match the letters? Test what you learned on the Alphabet page!"
+    },
+    {
+      "emoji": "🔢",
+      "title": "Numbers Quiz",
+      "desc": "Count and pick the right number! Great for maths superstars!"
+    },
+    {
+      "emoji": "🐾",
+      "title": "Animals Quiz",
+      "desc": "Do you know what sound a lion makes? Find out here!"
+    },
+    {
+      "emoji": "🌈",
+      "title": "Big Mix Quiz",
+      "desc": "Letters, numbers, AND animals all in one! The ultimate challenge!"
+    }
+  ],
+  "quiz-selector-heading": "Pick Your Quiz! 🤩",
+  "quiz-selector-body": "Choose what you want to be quizzed on. Every quiz is super fun and has awesome rewards waiting for you!",
+  "quiz-game": [
+    {
+      "question": "Which letter makes the 'sss' sound?",
+      "options": [
+        "B",
+        "S",
+        "T",
+        "M"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What comes after the number 7?",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "5"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which animal says MOO?",
+      "options": [
+        "Dog",
+        "Cat",
+        "Cow",
+        "Duck"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which letter starts the word APPLE?",
+      "options": [
+        "P",
+        "A",
+        "E",
+        "L"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "How many fingers do you have on one hand?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "What colour is a banana?",
+      "options": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which animal has a very long neck?",
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Penguin",
+        "Frog"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What letter does BALL start with?",
+      "options": [
+        "D",
+        "B",
+        "G",
+        "R"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Count the stars: ⭐⭐⭐⭐ — How many are there?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "correct": 2
+    }
+  ],
+  "quiz-game-heading": "Question Time! 🧠",
+  "quiz-game-body": "Read the question and tap the right answer! If you get it right, you'll see something really cool happen. No rush — take your time!",
+  "quiz-game-cta": "Check My Answer! ✅",
+  "score-display": [
+    {
+      "range": "10 out of 10",
+      "msg": "WOW! You are a SUPERSTAR! 🌟🌟🌟 You got every single one right!"
+    },
+    {
+      "range": "7–9 out of 10",
+      "msg": "Amazing job! 🎉 You are SO close to perfect. Try again to get all 10!"
+    },
+    {
+      "range": "4–6 out of 10",
+      "msg": "Great try! 😊 You're learning so fast. Play again and beat your score!"
+    },
+    {
+      "range": "1–3 out of 10",
+      "msg": "Good start! 💪 Keep practising on the Alphabet, Numbers, and Animals pages and come back!"
+    }
+  ],
+  "score-display-heading": "Look How Amazing You Did! 🌟",
+  "score-display-body": "Here's your score! Every right answer gets you a star. See how many you collected!",
+  "score-display-cta": "Play Again! 🔄",
+  "reward-confetti": [
+    {
+      "badge": "⭐ Gold Star Badge",
+      "desc": "Earned for finishing any quiz. You rock!"
+    },
+    {
+      "badge": "🏆 Quiz Champion Trophy",
+      "desc": "Earned for getting 10 out of 10. Incredible!"
+    },
+    {
+      "badge": "🔥 Hot Streak Flame",
+      "desc": "Earned for getting 5 correct answers in a row. On fire!"
+    },
+    {
+      "badge": "🦁 Brave Explorer Badge",
+      "desc": "Earned for trying the Big Mix Quiz. So brave!"
+    }
+  ],
+  "reward-confetti-heading": "You Did It! 🎊🎈",
+  "reward-confetti-body": "Hooray! Confetti is falling just for YOU! You finished the quiz and that is something to celebrate. Collect your star badge and show everyone how clever you are!",
+  "reward-confetti-cta": "Go to My Badges! 🏅",
+  "footer": {
+    "tagline": "Learn, Play, Grow!",
+    "madeWith": "Made with 💛 for curious little learners everywhere!",
+    "copyright": "Made with love for little learners",
+    "rights": "Made with love for little learners"
+  },
+  "numbers": {
+    "badge": "🔢 Numbers 1–20",
+    "heroTitle": "Let's Count!",
+    "heroSub": "Tap a number, count the objects, and become a counting superstar!",
+    "progressLabel": "Numbers Explored",
+    "progressDone": "complete",
+    "gridTitle": "Pick a Number!",
+    "selectLabel": "Select number",
+    "wordLabel": "The word is",
+    "tapPrompt": "Tap each object below to count them!",
+    "countingPrompt": "Tap all {num} of the {emoji} below!",
+    "resetLabel": "Reset counting game",
+    "reset": "Reset",
+    "celebrate": "Amazing! You counted all {num}!",
+    "pickPrompt": "Tap any number above to start learning!",
+    "factsTitle": "Fun Number Facts!",
+    "fact1": "A spider has 8 legs — count them next time you see one!",
+    "fact2": "An octopus has 8 arms — just like the number 8!",
+    "fact3": "A rainbow has 7 colours — red, orange, yellow, green, blue, indigo, violet!",
+    "quizBadge": "🧠 Number Quiz",
+    "quizTitle": "How Many Can You Count?",
+    "quizSub": "Look at the pictures and pick the right number!",
+    "quizProgress": "Question {current} of {total}",
+    "correct": "🎉 Correct! Great counting!",
+    "wrong": "Oops! The answer was {correct}. Keep trying!",
+    "quizDone": "Quiz Complete!",
+    "quizScore": "You got {score} out of {total} right!",
+    "quizRestart": "Play Again",
+    "allDoneTitle": "You Did It! 🏆",
+    "allDoneSub": "You explored all 20 numbers! You are a counting champion!"
+  },
+  "quizzes": {
+    "hero": {
+      "title": "Quiz Time! 🧠",
+      "subtitle": "Test what you know and earn stars!"
+    },
+    "select": {
+      "heading": "Pick a quiz to play!",
+      "playBtn": "Play!",
+      "tip": "Answer fast — you only have 5 seconds per question!"
+    },
+    "modes": {
+      "abc": {
+        "title": "Alphabet Quiz",
+        "desc": "Letters, sounds, and words — how well do you know your ABCs?"
+      },
+      "numbers": {
+        "title": "Numbers Quiz",
+        "desc": "Counting, adding, and number fun — let's see those math skills!"
+      },
+      "animals": {
+        "title": "Animals Quiz",
+        "desc": "Roars, splashes, and spots — how much do you know about animals?"
+      },
+      "mix": {
+        "title": "Mixed Challenge",
+        "desc": "A little bit of everything — the ultimate brain workout!"
+      }
+    },
+    "game": {
+      "score": "Score",
+      "questionOf": "Question {current} of {total}",
+      "correctFeedback": "Woohoo! That's right! 🎉",
+      "wrongFeedback": "Oops! Better luck next time! 💪"
+    },
+    "results": {
+      "title": "Quiz Complete!",
+      "amazing": "Amazing! You're a superstar! 🌟",
+      "great": "Great job! Keep it up! 🎉",
+      "tryAgain": "Keep trying — you've got this! 💪",
+      "playAgain": "Play Again",
+      "tryAnother": "Try Another Quiz",
+      "breakdown": "How did you do?",
+      "correct": "Correct",
+      "wrong": "Missed",
+      "stars": "Stars Earned",
+      "change": "Choose Another Quiz",
+      "retry": "Try Again",
+      "score": "Your Score",
+      "subtitle": "Great effort! Review the answers below."
+    },
+    "subtitle": "Fun quizzes to reinforce what you've learned.",
+    "title": "Test Your Knowledge"
+  },
+  "animals": {
+    "hero": {
+      "title": "Animal Explorer!",
+      "subtitle": "Tap any animal to discover amazing fun facts, cool sounds, and more!"
+    },
+    "search": {
+      "placeholder": "Search for an animal..."
+    },
+    "filter": {
+      "label": "Filter by habitat",
+      "showing": "Showing {count} animals",
+      "noResults": "No animals found!",
+      "tryAgain": "Try a different search or filter."
+    },
+    "card": {
+      "open": "Learn about",
+      "favorite": "Add to favorites",
+      "unfavorite": "Remove from favorites"
+    },
+    "favorites": {
+      "title": "My Favorites"
+    },
+    "modal": {
+      "close": "Close animal details",
+      "closeButton": "Back to Animals!",
+      "playSound": "Play animal sound",
+      "soundButton": "Hear the Sound!",
+      "funFacts": "Fun Facts",
+      "habitat": "Habitat",
+      "diet": "Diet",
+      "babyName": "Baby Name",
+      "soundsLike": "Sounds Like...",
+      "soundHint": "Press the button above to hear the sound!"
+    }
+  },
+  "alphabet": {
+    "hero": {
+      "title": "The Alphabet Adventure!",
+      "subtitle": "Tap any letter to learn its word, hear it spoken, and play a matching game. Collect all 26 stars!"
+    },
+    "progress": {
+      "label": "Letters Learned",
+      "reset": "Reset",
+      "complete": "complete"
+    },
+    "celebration": {
+      "title": "You Did It!",
+      "body": "Amazing! You learned all 26 letters of the alphabet! You are a superstar!"
+    },
+    "howToPlay": {
+      "title": "How to Play",
+      "steps": [
+        {
+          "step": "1",
+          "icon": "👆",
+          "title": "Tap a Letter",
+          "desc": "Pick any letter from the colorful grid above."
+        },
+        {
+          "step": "2",
+          "icon": "🔊",
+          "title": "Learn the Word",
+          "desc": "See the example word and tap Say It to hear it!"
+        },
+        {
+          "step": "3",
+          "icon": "⭐",
+          "title": "Earn a Star",
+          "desc": "Match the emoji and tap Got It to collect your star."
+        }
+      ]
+    },
+    "facts": {
+      "title": "Fun Alphabet Facts",
+      "items": [
+        {
+          "emoji": "📚",
+          "fact": "The English alphabet has 26 letters — 5 vowels and 21 consonants!",
+          "color": "#FF6B6B"
+        },
+        {
+          "emoji": "🌍",
+          "fact": "The word alphabet comes from the first two Greek letters: Alpha and Beta!",
+          "color": "#4D96FF"
+        },
+        {
+          "emoji": "✍️",
+          "fact": "Every letter can be written in UPPERCASE and lowercase — that is 52 shapes to learn!",
+          "color": "#6BCB77"
+        },
+        {
+          "emoji": "🎵",
+          "fact": "The ABC song was first published in 1835 and kids have been singing it ever since!",
+          "color": "#CC5DE8"
+        }
+      ]
+    },
+    "panel": {
+      "sayIt": "Say It!",
+      "gotIt": "Got It! ⭐",
+      "alreadyGotIt": "Already Got It!",
+      "matchPrompt": "Which one starts with",
+      "correct": "Correct!",
+      "tryAgain": "Try again!"
+    }
+  },
+  "home": {
+    "hero": {
+      "tagline": "Learn, Play, Grow!",
+      "description": "A magical place for kids aged 3 to 8 to explore letters, numbers, animals, and fun quizzes — all with Kiko the fox as your guide!",
+      "cta_primary": "Start Learning",
+      "cta_secondary": "Take a Quiz!"
+    },
+    "stats": {
+      "letters": "Letters to Learn",
+      "numbers": "Numbers to Count",
+      "animals": "Animal Friends",
+      "quizzes": "Fun Quizzes"
+    },
+    "features": {
+      "label": "What We Learn",
+      "heading": "Four Worlds of Wonder",
+      "subheading": "Pick any world and start your adventure. Every activity is designed to make learning feel like play!",
+      "items": [
+        {
+          "id": "f1",
+          "emoji": "🔤",
+          "title": "Alphabet Adventure",
+          "desc": "Trace letters, hear sounds, and meet a new animal friend for every letter from A to Z.",
+          "href": "/alphabet"
+        },
+        {
+          "id": "f2",
+          "emoji": "🔢",
+          "title": "Number Ninja",
+          "desc": "Count colorful objects, pop number bubbles, and learn to write digits 1 through 20.",
+          "href": "/numbers"
+        },
+        {
+          "id": "f3",
+          "emoji": "🐾",
+          "title": "Animal Explorer",
+          "desc": "Discover lions, dolphins, pandas and more. Learn their sounds, homes, and super fun facts!",
+          "href": "/animals"
+        },
+        {
+          "id": "f4",
+          "emoji": "🧠",
+          "title": "Quiz Champion",
+          "desc": "Test what you know with silly, colorful quizzes. Earn stars and celebrate every right answer!",
+          "href": "/quizzes"
+        }
+      ]
+    },
+    "facts": {
+      "label": "Did You Know?",
+      "heading": "Flip the Cards for Fun Facts!",
+      "subheading": "Tap any card to flip it over and discover an amazing fact about the animal world!",
+      "cta": "Meet All Animals",
+      "items": [
+        {
+          "id": "ff1",
+          "emoji": "🦒",
+          "fact": "A giraffe's tongue is dark blue and can be 45 cm long!"
+        },
+        {
+          "id": "ff2",
+          "emoji": "🐙",
+          "fact": "An octopus has three hearts and blue blood!"
+        },
+        {
+          "id": "ff3",
+          "emoji": "🦋",
+          "fact": "Butterflies taste with their feet — yummy!"
+        },
+        {
+          "id": "ff4",
+          "emoji": "🐘",
+          "fact": "Elephants are the only animals that cannot jump!"
+        },
+        {
+          "id": "ff5",
+          "emoji": "🦈",
+          "fact": "Sharks are older than dinosaurs — they have been around for 450 million years!"
+        },
+        {
+          "id": "ff6",
+          "emoji": "🐝",
+          "fact": "A bee visits up to 5,000 flowers in a single day!"
+        }
+      ]
+    },
+    "how_it_works": {
+      "label": "How It Works",
+      "heading": "Learning in 3 Easy Steps",
+      "steps": [
+        {
+          "step": "1",
+          "emoji": "🎯",
+          "title": "Pick a Topic",
+          "desc": "Choose from Alphabet, Numbers, Animals, or Quizzes. Every topic is packed with colorful activities!"
+        },
+        {
+          "step": "2",
+          "emoji": "🎮",
+          "title": "Play and Learn",
+          "desc": "Tap, click, and interact with fun games. Hear sounds, see pictures, and discover new things!"
+        },
+        {
+          "step": "3",
+          "emoji": "🏆",
+          "title": "Earn Stars",
+          "desc": "Answer quiz questions and collect shiny stars. The more you learn, the more you earn!"
+        }
+      ]
+    },
+    "testimonials": {
+      "label": "Kids Love It!",
+      "heading": "What Our Little Learners Say",
+      "items": [
+        {
+          "id": "t1",
+          "name": "Mia, age 5",
+          "avatar": "👧",
+          "quote": "I love the animal page! Dolphins are my favourite!",
+          "stars": 5
+        },
+        {
+          "id": "t2",
+          "name": "Noah, age 7",
+          "avatar": "👦",
+          "quote": "The quiz is so fun. I got 10 out of 10 and got a big star!",
+          "stars": 5
+        },
+        {
+          "id": "t3",
+          "name": "Lily, age 4",
+          "avatar": "👧",
+          "quote": "I can write all the letters now. A B C D E F G!",
+          "stars": 5
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Ready to Start Your Adventure?",
+      "subheading": "Join Kiko and thousands of happy kids on the most colorful learning journey ever. It is free, fun, and made just for you!",
+      "primary": "Start with ABC",
+      "secondary": "Try a Quiz",
+      "badges": [
+        "100% Free",
+        "No Sign-Up Needed",
+        "Safe for Kids",
+        "Works on Any Device"
+      ]
+    }
+  }
+}
